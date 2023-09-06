@@ -1,11 +1,12 @@
 /* Estilo de botão com fundo sólido */
 .btn-primary {
-    background-color: #166fad; /* Cor de fundo desejada */
+    /* Cor de fundo desejada */
+    background-color: #175c8d;
     border: none;
     color: #fff; /* Cor do texto */
 }
 
 /* Estilo de botão de foco (quando o mouse passa por cima) */
 .btn-primary:hover {
-    background-color: #0056b3; /* Cor de fundo em hover */
+    background-color: #166fad;
 }

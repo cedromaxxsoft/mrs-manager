@@ -13,6 +13,12 @@
  * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
  */
+
+
+a:hover{
+    color: #337ab7;
+}
+
 @media (min-width: 992px){
     .typo-line{
         padding-left: 140px;
